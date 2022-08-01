@@ -1,5 +1,5 @@
 {
-    "name": "MQTT Light Reading",
+    "name": "MQTT Light Reading - add pause",
     "description": "",
     "dependencies": {
         "core": "*",
